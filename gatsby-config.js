@@ -21,13 +21,5 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-image`,
     `gatsby-transformer-remark`,
-    {
-      resolve: `gatsby-plugin-styled-components`,
-      options: {
-        displayName: true,
-        fileName: false,
-        minify: true,
-      },
-    },
   ],
 };
