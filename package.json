@@ -1,0 +1,48 @@
+{
+  "name": "monte-packham",
+  "version": "1.0.0",
+  "description": "- mobile navigation menu: bigger type, anchor contact details to bottom - desktop",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MontePackham/website"
+  },
+  "author": "gordan.ratkovic@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MontePackham/website"
+  },
+  "homepage": "https://github.com/MontePackham/website",
+  "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.27",
+    "gatsby": "^4.20.0",
+    "gatsby-plugin-image": "^2.20.0",
+    "gatsby-plugin-sharp": "^4.20.0",
+    "gatsby-plugin-styled-components": "^5.20.0",
+    "gatsby-transformer-remark": "^5.20.0",
+    "gatsby-transformer-sharp": "^4.20.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "eslint": "^8.22.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.7.1"
+  }
+}
