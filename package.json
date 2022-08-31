@@ -1,7 +1,7 @@
 {
   "name": "monte-packham",
   "version": "1.0.0",
-  "description": "- mobile navigation menu: bigger type, anchor contact details to bottom - desktop",
+  "description": "",
   "main": ".eslintrc.js",
   "scripts": {
     "build": "gatsby build",
